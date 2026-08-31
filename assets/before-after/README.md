@@ -50,20 +50,8 @@ Each card pairs the original source photo with its corresponding American Hardco
 
 *fashion portrait*
 
-## LAST SPARK
-
-![LAST SPARK](./singer-last-spark.jpg)
-
-*singer with tambourine*
-
 ## OUT HERE
 
 ![OUT HERE](./outdoor-pair-out-here.jpg)
 
 *two people in monochrome crowd scene*
-
-## NOISE AFTER DARK
-
-![NOISE AFTER DARK](./concert-noise-after-dark.jpg)
-
-*live concert guitarist*
